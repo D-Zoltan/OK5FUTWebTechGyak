@@ -1,0 +1,128 @@
+<!-- Dankó Zoltán kódja -->
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Bevautoelektro</title>
+ </head>
+ <body style="background:#9999FF">
+	<font style="font-family:calibri"><h2> Bevezetés az autóelektronikába </h2></font>
+
+	<a href="Kezdőlap.html" target="ujablak"> VISSZA A KEZDŐLAPRA </a> <br>
+		<div>
+		<img src="kepek/bevautoelektro.png" alt="Műszaki lézerfizika." style="border:2px black solid; float:center" />
+		</div>
+	
+	<font style="font-family:comic sans MS; color:#9999FF">		<!-- Szöveg típusa a táblázatba és attól lefelé a linket kivéve, illetve a szöveg színe-->
+	<table border="1" width="500" style="background:#202020" align="center">							<!-- Távlázat kezdete, benne a keret vastagsága -->
+		<tr>
+			<td><b>Hét</b></td>
+			<td><b>Előadás</b></td>
+			<td><b>Gyakorlat</b></td>
+		</tr>
+
+		<tr>
+			<td><b>1</b></td>
+			<td>Gépkocsi villamos hálózata</td>
+			<td>Gépkocsi multiplex hálózata</td>
+		</tr>
+
+		<tr>
+			<td><b>2</b></td>
+			<td>Generátor</td>
+			<td>Generátor elektronikus feszültségszabályozója</td>
+		</tr>
+
+		<tr>
+			<td><b>3</b></td>
+			<td>Akkumulátor</td>
+			<td>Akkumulátor menedzsment</td>
+		</tr>
+
+		<tr>
+			<td><b>4</b></td>
+			<td>Indítómotor</td>
+			<td>Indító-generátor</td>
+		</tr>
+
+		<tr>
+			<td><b>5</b></td>
+			<td>Gyújtás, előgyújtás szabályozás</td>
+			<td>Kondenzátoros gyújtás</td>
+		</tr>
+
+		<tr>
+			<td><b>6</b></td>
+			<td>Benzinbefecskendezés</td>
+			<td>Automata sebességváltók</td>
+		</tr>
+
+		<tr>
+			<td><b>7</b></td>
+			<td>1. zárthelyi dolgozat</td>
+			<td>Közös nyomócsövű Diesel rendszer</td>
+		</tr>
+
+		<tr>
+			<td><b>8</b></td>
+			<td>Blokkolás-, kipörgés-gátlók, járműdinamika szabályozás</td>
+			<td>Légzsákok</td>
+		</tr>
+
+		<tr>
+			<td><b>9</b></td>
+			<td>Világítás, Litronic, PES</td>
+			<td>LED világítás és világításfejlesztési rendszerek</td>
+		</tr>
+
+		<tr>
+			<td><b>10</b></td>
+			<td>Fedélzeti műszerek, fedélzeti diagnosztika</td>
+			<td>Diagnosztikai bemutató</td>
+		</tr>
+
+		<tr>
+			<td><b>11</b></td>
+			<td>Húsvét hétfő, munkaszüneti nap </td>
+			<td>Elektromágneses zavarvédelem</td>
+		</tr>
+
+		<tr>
+			<td><b>12</b></td>
+			<td>Hangjelző berendezés, ablaktörlő</td>
+			<td>Május 1. munkaszüneti nap</td>
+		</tr>
+
+		<tr>
+			<td><b>13</b></td>
+			<td>Károsanyag kibocsátás felügyelete</td>
+			<td>2. zárthelyi</td>
+		</tr>
+
+		<tr>
+			<td><b>14</b></td>
+			<td>Villamos hajtású gépkocsik</td>
+			<td>1. és 2. pótzárthelyi</td>
+		</tr>
+	</table>											<!-- Táblázat vége -->
+	</font>
+	<ul>
+		<li>A tárgy lezárásának módja: aláírás és gykorlati jegy.</li>
+		<li>Az aláírás és a gyakorlati jegy megszerzésének feltétele:
+			<ul>
+				<li>A zárthelyik legalább 50%-ra történő teljesítése.</li>
+				<li>A zárthelyik írása a tanulmányi rend alapjáán történik.</li>
+				<li>A sikertelen zárthelyit a megadott időpontban lehet pótolni</li>
+				<li>Előadások és gyakorlatok látogatása</li>
+			</ul></li>
+	</ul>
+
+
+  <a href="Kezdőlap.html" target="ujablak"> VISSZA A KEZDŐLAPRA </a>
+ </body>
+</html>
